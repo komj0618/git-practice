@@ -1,2 +1,2 @@
-Hello from Charlie
+Hello from Charlie and Bob
 common line 2
