@@ -1,2 +1,2 @@
-Hello from Alice
-common line 2
+Hello from Bob
+Common line 2
